@@ -54,6 +54,13 @@ from the first column (assumed to be the gene id for DEAGO).
 Remaining column values from rows sharing the same unique 
 identifier are collapsed and semi-colon separated (;).
 
+# Example for human
+# 1) Go to http://www.ensembl.org/biomart/martview
+# 2) Select dataset e.g. Ensembl Genes 87
+# 3) Select Gene ID, Associated Gene Name and GO Term Accession from Attributes
+# 4) Download as TSV
+# 5) Provide TSV annotation file to script using prepare_deago_annotation.pl -a my_annotation.tsv
+
 Example input file contents:
 
 Gene stable ID	Gene	GO term accession
@@ -75,7 +82,7 @@ Smp_000110		GO:0005515
 
 Example command:
 
-prepare_deago_annotation.pl -a my_annotation_file
+prepare_deago_annotation.pl -a my_annotation.tsv
 
 USAGE
 
