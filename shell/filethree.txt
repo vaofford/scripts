@@ -1,0 +1,26 @@
+Lane	Filename
+Lane            Sample                    Supplier Name             Public Name               Strain
+20167_1#10      Kleb_ips6278687           huiPSmacro_ctrl4          iPS plus Kleb             NA
+20167_1#10	/lustre/scratch118/infgen/pathogen/pathpipe/prokaryotes/seq-pipelines/Homo/sapiens/TRACKING/4033/Kleb_ips6278687/SLX/16815771/20167_1#10/1497199.pe.raw.sorted.bam.expression.csv
+20167_1#11      Kleb_ips6278688           huiPSmacro_WT4            iPS plus Kleb             NA
+20167_1#11	/lustre/scratch118/infgen/pathogen/pathpipe/prokaryotes/seq-pipelines/Homo/sapiens/TRACKING/4033/Kleb_ips6278688/SLX/16815784/20167_1#11/1497193.pe.raw.sorted.bam.expression.csv
+20167_1#12      Kleb_ips6278689           huiPSmacro_CAPS4          iPS plus Kleb             NA
+20167_1#12	/lustre/scratch118/infgen/pathogen/pathpipe/prokaryotes/seq-pipelines/Homo/sapiens/TRACKING/4033/Kleb_ips6278689/SLX/16815796/20167_1#12/1497217.pe.raw.sorted.bam.expression.csv
+20167_1#1       Kleb_ips6278678           huiPSmacro_ctrl1          iPS plus Kleb             NA
+20167_1#1	/lustre/scratch118/infgen/pathogen/pathpipe/prokaryotes/seq-pipelines/Homo/sapiens/TRACKING/4033/Kleb_ips6278678/SLX/16815753/20167_1#1/1497196.pe.raw.sorted.bam.expression.csv
+20167_1#2       Kleb_ips6278679           huiPSmacro_WT1            iPS plus Kleb             NA
+20167_1#2	/lustre/scratch118/infgen/pathogen/pathpipe/prokaryotes/seq-pipelines/Homo/sapiens/TRACKING/4033/Kleb_ips6278679/SLX/16815769/20167_1#2/1497223.pe.raw.sorted.bam.expression.csv
+20167_1#3       Kleb_ips6278680           huiPSmacro_CAPS1          iPS plus Kleb             NA
+20167_1#3	/lustre/scratch118/infgen/pathogen/pathpipe/prokaryotes/seq-pipelines/Homo/sapiens/TRACKING/4033/Kleb_ips6278680/SLX/16815783/20167_1#3/1497211.pe.raw.sorted.bam.expression.csv
+20167_1#4       Kleb_ips6278681           huiPSmacro_ctrl2          iPS plus Kleb             NA
+20167_1#4	/lustre/scratch118/infgen/pathogen/pathpipe/prokaryotes/seq-pipelines/Homo/sapiens/TRACKING/4033/Kleb_ips6278681/SLX/16815795/20167_1#4/1497208.pe.raw.sorted.bam.expression.csv
+20167_1#5       Kleb_ips6278682           huiPSmacro_WT2            iPS plus Kleb             NA
+20167_1#5	/lustre/scratch118/infgen/pathogen/pathpipe/prokaryotes/seq-pipelines/Homo/sapiens/TRACKING/4033/Kleb_ips6278682/SLX/16815807/20167_1#5/1497202.pe.raw.sorted.bam.expression.csv
+20167_1#6       Kleb_ips6278683           huiPSmacro_CAPS2          iPS plus Kleb             NA
+20167_1#6	/lustre/scratch118/infgen/pathogen/pathpipe/prokaryotes/seq-pipelines/Homo/sapiens/TRACKING/4033/Kleb_ips6278683/SLX/16815819/20167_1#6/1497112.pe.raw.sorted.bam.expression.csv
+20167_1#7       Kleb_ips6278684           huiPSmacro_ctrl3          iPS plus Kleb             NA
+20167_1#7	/lustre/scratch118/infgen/pathogen/pathpipe/prokaryotes/seq-pipelines/Homo/sapiens/TRACKING/4033/Kleb_ips6278684/SLX/16815831/20167_1#7/1497220.pe.raw.sorted.bam.expression.csv
+20167_1#8       Kleb_ips6278685           huiPSmacro_WT3            iPS plus Kleb             NA
+20167_1#8	/lustre/scratch118/infgen/pathogen/pathpipe/prokaryotes/seq-pipelines/Homo/sapiens/TRACKING/4033/Kleb_ips6278685/SLX/16815843/20167_1#8/1497214.pe.raw.sorted.bam.expression.csv
+20167_1#9       Kleb_ips6278686           huiPSmacro_CAPS3          iPS plus Kleb             NA
+20167_1#9	/lustre/scratch118/infgen/pathogen/pathpipe/prokaryotes/seq-pipelines/Homo/sapiens/TRACKING/4033/Kleb_ips6278686/SLX/16815755/20167_1#9/1497205.pe.raw.sorted.bam.expression.csv

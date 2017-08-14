@@ -1,0 +1,2 @@
+Lane	Sample	Supplier Name	Public Name	Strain	Filename
+22546_3#97	4472STDY6848475	1A_2_Tissue_Sc_Sm	NA	NA	NA
