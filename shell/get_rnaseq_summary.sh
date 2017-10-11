@@ -104,7 +104,7 @@ then
 fi 
 
 # Get output from pf rnaseq
-pf_rnaseq=`pf rnaseq -t $pf_type -i $pf_id -f $filetype| awk -F "/" 'BEGIN{print "Lane\tFilename"}; {print $16"\t"$0}'`
+pf_rnaseq=`pf rnaseq -t $pf_type -i $pf_id -f $filetype| awk -F "/" 'BEGIN{print "Lane\tFullPath\tFilename"}; {fn=$16"."$17; print $16"\t"$0"\t"fn}'`
 
 # Join and write output to file
-join -a1 -a2 -t $'\t' -o 0 1.2 1.3 1.4 1.5 2.2 -e 'NA' <(echo "$pf_info") <(echo "$pf_rnaseq") > $outfile
+join -a1 -a2 -t $'\t' -o 0 1.2 1.3 1.4 1.5 2.3 2.2 -e 'NA' <(echo "$pf_info") <(echo "$pf_rnaseq") > $outfile
